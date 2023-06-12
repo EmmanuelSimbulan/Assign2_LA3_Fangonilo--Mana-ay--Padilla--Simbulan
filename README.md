@@ -1,4 +1,12 @@
-# Project Name: Bootstrap Website
+# Assignment 2 & Laboratory Activity 3 - Finals
+## Submitted by: 
+- Fangonilo, Patricia Ysabel D.
+- Mana-ay, Shawn Michael F.
+- Padilla, Hannah M.
+- Simbulan, Emmanuel R.
+
+
+# Building a Responsive Web Page Using HTML, CSS, and JavaScript Frameworks
 
 This project is a responsive website built using the Bootstrap framework. It includes various pages such as home, about, completed web development projects, portfolio, our hobbies, and contacts. The purpose of this README file is to provide instructions for running the project on your local machine.
 
